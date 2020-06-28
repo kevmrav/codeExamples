@@ -1,0 +1,28 @@
+#container {
+    width: 80%;
+    margin:auto;
+    margin-top: 10px;
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.navbar-title{
+    color: #696969;
+    padding-left: 40px;
+    font-size: 2.0em;
+}
+
+.add-button {
+    float:right;
+    margin-bottom: 15px;
+}
+
+#message-container {
+    color: #696969;
+    min-width: 100%;
+    text-align: center;
+    border: 1px solid #7DA0B1;
+    padding: 10px;
+}
