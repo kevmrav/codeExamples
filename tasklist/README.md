@@ -12,6 +12,6 @@ Consists of 2 classes
 * taskClass.php is the CRUD operations
 ```
 ## Screenshots
-* [Index Page](/includes/screenshots/tasklist_index.png)
-* [Edit Modal](/includes/screenshots/tasklist_edit.png)
+* [Index Page](includes/screenshots/tasklist_index.png)
+* [Edit Modal](includes/screenshots/tasklist_edit.png)
 
